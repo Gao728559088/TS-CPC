@@ -1,0 +1,5 @@
+2024-09-26 08:55:40,668 - __main__ - INFO - Feature vectors shape: (2169, 4096)
+2024-09-26 08:55:40,698 - __main__ - INFO - Feature vectors extracted successfully.
+2024-09-26 08:55:41,266 - __main__ - INFO - Mean rank for specified condition: 1.0
+2024-09-26 08:55:56,897 - __main__ - INFO - Mean rank of evalSimilary/jakartaAndroidSimilary/subsetForVal/jakarta_subset.hdf5 and evalSimilary/jakartaAndroidSimilary/subsetForVal/jakarta_subset.txt: 1.0
+2024-09-26 08:55:56,897 - __main__ - INFO - Overall mean rank: 1.0
