@@ -6,7 +6,7 @@ This repository contains the official implementation of **TS-CPC**, a self-super
 ## Key Features
 - Sliding-Window-based Linear Interpolation (SW-LI): Enhances trajectory features by preserving fine-grained details and improving model performance.
 - Trajectory Detour Point Offset (TDPO): Improves robustness against real-world noise and drift.
-- Trajectory Motion Enrichment (TME): Extracts essential motion dynamics, such as speed, orientation, and angular velocity, for better understanding of trajectory dynamics.
+- TME/SFEM: Extracts essential motion dynamics, such as speed, orientation, and angular velocity, for better understanding of trajectory dynamics.
 
 ## Key Results
 
